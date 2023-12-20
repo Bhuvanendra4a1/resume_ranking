@@ -1,0 +1,141 @@
+              AWS   Kubernetes   Docker   Git and GitHub   Jenkins   Ansible   Linux   Maven   Apache
+Profile Summary:
+?	6.5+ years of experience in DevOps, Linux Administration, Build & Release 
+management
+?	Strong Analytic skills of SDLC and Software Test Life Cycle.
+?	Extensive knowledge in Automate the Admin tasks Ansible playbooks.
+?	Expertise in CI/CD setup to automate daily builds /nightly builds using Jenkins.
+?	Experienced in creating and managing Public and Private Repositories using GIT 
+and GITHUB.
+?	Experienced in AWS components such as EC2, VPC, S3, EBS, Security Groups, Auto 
+scaling, Load Balancer.
+?	Experienced in working on creating Docker images & handling multiple images 
+for middle-ware installations.
+?	Configured and Maintained high availability of Docker images by using 
+Kubernetes.
+?	Automated different types of Backups, Jobs and Spinning AWS instances by using 
+Configuration tools Ansible.
+?	Expertise in configuration of Jenkins on Linux OS with master and slave setup to 
+implement multiple parallel builds.
+?	Expertise in Simplifying Job creation and execution by using CI/CD tool plugins.
+?	Worked Experience with monitoring tools such as Cloud watch, Nagios and 
+Prometheus.
+?	Experienced in Creating and Deploying OVA based Appliances on different types 
+of cloud Environments.
+?	Effective team player with excellent logical and analytical abilities.
+?	Excellent written and verbal communication skills.
+
+
+Education:
+?	B. Tech (Information Technology) from Gayatri Vidya Parishad College of 
+Engineering-2016.
+
+Technical Skills:
+Cloud Services
+
+AWS Cloud Services 
+Configuration 
+Management Tools
+Ansible
+WebServer
+Nginx, Apache
+Programming 
+Languages
+Python 2.7, Bash Shell
+CI Tools
+Jenkins
+Versioning Control
+Github
+Build Tool
+
+Maven, Docker, Kubernetes
+
+Professional Experience
+?	Working as a DevOps Engineer in Tech Mahindra, Pune since April 2019.
+?	Worked as Linux Administrator at NTT Data, Hyderabad February 2017 to 
+March 2019.
+
+Work Profile
+Project Name	:	ANZ (Australian New Zealand Bank) Operations and Technologies
+Role	:	DevOps Engineer
+Duration          :  April 2019 to till date
+Responsibilities
+?	Deployed the Java applications into web application servers like Tomcat.
+?	Supporting the servers and Applications in Development, Testing and Production 
+environment.
+?	Experience to AWS console for managing L2 operations like EC2 servers, S3 
+buckets, Access management etc.
+?	Supported a dockerized infrastructure managed by Kubernetes.
+?	Implemented & maintained the branching and build/release strategies utilizing 
+GIT.
+?	Performed all necessary day-to-day GIT support for deferent projects.
+?	Worked closely with developers to pinpoint and provide early warnings of 
+common build failures.
+?	Automated the build and release management process including monitoring 
+changes between releases.
+?	Designed and implemented Ansible to configure, install, manage, and deploy 
+releases across all environments.
+?	Creating buckets , uploading and downloading from S3 , Granting Rights  , 
+creating roles , Using Reduced Redundancy Storage , S3 Lifecycle Management
+?	Granting permissions to the users and maintaining organization security 
+standards.
+
+
+?	Monitoring and optimizing system and database instance resources to insure 
+continuous operations (i.e., database storage, memory, CPU, network usage, and 
+I/O contention)
+
+Project	:	Thomson Reuters
+Role	:	System Admin
+Duration          :  February 2017 to March 2019
+Responsibilities
+?	Building Physical as well as Virtual (VMware) Servers.
+?	Mass Build of Linux/Solaris OS servers using kickstart /jumpstart automation 
+application.
+?	Installation of Oracle 11g and Sybase open-client, Apache 2.x on Linux 
+environment.
+?	Verification of the built servers.
+?	Kernel Upgrading during outage in production boxes.
+?	Decommissioning of the old servers and keeping track or decommissioned and 
+new servers using inventory list.
+?	Monitored System Activities like CPU, Memory, Disk and Swap space usage to 
+avoid any performance issues.
+?	Software package and patch administration, involving adding and removing 
+software packages and updating patches
+?	Maintained proper documentation of all the activities carried out during the 
+project.
+?	Configuration of LVM (Logical Volume Manager) to manage volume group, 
+logical and physical partitions and importing new physical volumes.
+?	Installation, configuration, support and security implementation on following 
+services:DHCP, SSH, SCP. 
+?	Configuration and administration of NFS and Samba in Linux and Solaris.
+?	Maintained and monitored all of company\'s servers' operating system and 
+application patch level, disk space and memory usage, user activities on day-to-
+day basis.
+?	User administration on Sun Solaris and RHEL systems, HP-UX machines, 
+management & archiving.
+?	Installations of HP Open view, monitoring tool, in more than 300 servers.
+?	Attended calls related to customer queries and complaints, offered solutions to 
+them.
+?	Managed and upgraded UNIX's server services such as Bind DNS. 
+?	Configuration and administration of Web (Apache), DHCP and FTP Servers in 
+Linux and Solaris servers.
+?	Responsible for setting cron jobs on the servers. 
+
+
+?	Decommissioning of the old servers and keeping track or decommissioned and 
+new servers using inventory list.
+?	Handling problems or requirements as per the ticket (Request Tracker) created.
+?	Participated in on-call rotation to provide 24X7 technical supports. 
+                                                           
+(Neelesh Madhav Tholana)
+
+
+AWS Cloud / DevOps Engineer
+Neelesh Madhav Tholana
+Email: neelesh.awsdevops@gmail.com	    Ph: +91 7666572667
+Pune, Maharashtra.
+
+
+
+
